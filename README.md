@@ -1,0 +1,2 @@
+# iTCM-Datasets
+This research proposes to develop online thermal comfort models via a deep-learning approach and apply them to behavioral studies to drive “greener, smarter and healthier buildings” in the tropics (e.g., Singapore). Leveraging privacy-preserving data analytics over information acquired from smartphone crowdsourcing and in-situ wearables measurements, the project plans to develop and validate an integrative, economical and scalable thermal comfort management system.
