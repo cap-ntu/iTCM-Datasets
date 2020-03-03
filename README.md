@@ -1,6 +1,6 @@
 # iTCM-Datasets
 
-This research proposes to develop online thermal comfort models via a deep-learning approach and apply them to behavioral studies to drive “greener, smarter and healthier buildings” in the tropics (e.g., Singapore). Leveraging privacy-preserving data analytics over information acquired from smartphone crowdsourcing and in-situ wearables measurements, the project plans to develop and validate an integrative, economical and scalable thermal comfort management system.
+These datasets are collected for the GBIC project to conduct research about indoor human thermal comfort. The GBIC research project proposes to develop online thermal comfort models via a deep-learning approach and apply them to behavioral studies to drive “greener, smarter and healthier buildings” in the tropics (e.g., Singapore). Leveraging privacy-preserving data analytics over information acquired from smartphone crowdsourcing and in-situ wearables measurements, the project plans to develop and validate an integrative, economical and scalable thermal comfort management system.
 
 ## Metadata
 
@@ -47,7 +47,7 @@ Those files with name `no_3_thermal` are used in Buildsys 2019 paper, the reason
 
 ## Sample Data
 
-You may find the explaination of each field in `Dataset v1 Information.docx`.
+You may find the explaination of each field in `3) Dataset Features & Codes.docx`.
 
 | id | user\_uuid                               | hour | age | weight | height | gender | at          | rh          | met          | cl    | hr | st | ati\(\-3\-2\) | ati\(0\-5\) |
 |----|------------------------------------------|------|-----|--------|--------|--------|-------------|-------------|--------------|-------|----|----|---------------|-------------|
