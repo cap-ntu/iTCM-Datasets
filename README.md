@@ -8,6 +8,10 @@ Canonical URL: [https://researchdata.ntu.edu.sg](https://researchdata.ntu.edu.sg
 
 Title: Related data for: Heterogeneous Transfer Learning for Thermal Comfort Modeling
 
+Related Publication: Weizheng Hu, Yong Luo, Zongqing Lu, and Yonggang Wen. 2019. Heterogeneous Transfer Learning for Thermal Comfort Modeling. In Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’19). Association for Computing Machinery, New York, NY, USA, 61–70. doi: 10.1145/3360322.3360843
+
+Grant Information: Building and Construction Authority (BCA) Singapore: NRF2015ENC-GBICRD001-012
+
 Subject: Computer and Information Science; Medicine, Health and Life Sciences
 
 Keywords: thermal comfort, heart rate, skin temperature, HVAC, air-conditioning, thermal sensation, predicted mean vote (PMV)
@@ -57,6 +61,13 @@ You may find the explaination of each field in `Dataset v1 Information.docx`.
 | 8  | 1b5d595c\-1bb9\-4f20\-a78a\-217958689877 | 22   | 19  | 74     | 170    | 1      | 25\.1918955 | 54\.5402515 | 1\.184330398 | 0\.54 | 79 | 33 | 1             | 4           |
 | 9  | 1b5d595c\-1bb9\-4f20\-a78a\-217958689877 | 22   | 19  | 74     | 170    | 1      | 25\.261325  | 53\.424551  | 1\.234368697 | 0\.54 | 83 | 32 | 1             | 4           |
 | 10 | 1b5d595c\-1bb9\-4f20\-a78a\-217958689877 | 23   | 19  | 74     | 170    | 1      | 25\.218705  | 53\.0346485 | 1\.174277726 | 0\.54 | 80 | 32 | 0             | 3           |
+
+## Scope of Dataset
+
+| Dataset                | Size \(with hot votes\)                   | Air Temperature Range | Relative Humidity Range |
+|------------------------|-------------------------------------------|-----------------------|-------------------------|
+| iTCM generic dataset   | 4293 \(4314\)                             | 19\.6°C \- 30\.6°C    | 37\.3% \- 83\.6%        |
+| iTCM personal datasets | 345 \(346\) \+ 380 \(385\) \+ 341 \(345\) | 19\.6°C \- 29\.9°C    | 42\.4% \- 75\.5%        |
 
 
 ## License
