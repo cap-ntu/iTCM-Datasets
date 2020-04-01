@@ -4,7 +4,7 @@ These datasets are collected for the GBIC project to conduct research about indo
 
 ## Metadata
 
-Canonical URL: [https://researchdata.ntu.edu.sg](https://researchdata.ntu.edu.sg)
+Canonical URL: [https://researchdata.ntu.edu.sg](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/56MTEH)
 
 Title: Related data for: Heterogeneous Transfer Learning for Thermal Comfort Modeling
 
