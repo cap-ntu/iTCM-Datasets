@@ -62,13 +62,19 @@ You may find the explaination of each field in `3) Dataset Features & Codes.docx
 | 9  | 1b5d595c\-1bb9\-4f20\-a78a\-217958689877 | 22   | 19  | 74     | 170    | 1      | 25\.261325  | 53\.424551  | 1\.234368697 | 0\.54 | 83 | 32 | 1             | 4           |
 | 10 | 1b5d595c\-1bb9\-4f20\-a78a\-217958689877 | 23   | 19  | 74     | 170    | 1      | 25\.218705  | 53\.0346485 | 1\.174277726 | 0\.54 | 80 | 32 | 0             | 3           |
 
-## Scope of Dataset
+## Scope of Dataset (BuildSys Paper)
 
 | Dataset                | Size \(with hot votes\)                   | Air Temperature Range | Relative Humidity Range |
 |------------------------|-------------------------------------------|-----------------------|-------------------------|
 | iTCM generic dataset   | 4293 \(4314\)                             | 19\.6°C \- 30\.6°C    | 37\.3% \- 83\.6%        |
 | iTCM personal datasets | 345 \(346\) \+ 380 \(385\) \+ 341 \(345\) | 19\.6°C \- 29\.9°C    | 42\.4% \- 75\.5%        |
 
+## Scope of Dataset (Full Dataset)
+
+| Dataset                | Size                                      | Air Temperature Range | Relative Humidity Range |
+|------------------------|-------------------------------------------|-----------------------|-------------------------|
+| iTCM generic dataset   | 6689                                      | 19\.6°C \- 30\.6°C    | 37\.3% \- 83\.6%        |
+| iTCM personal datasets | 345 + 380 + 341 + 448 + 385 + 374.        | 19\.3°C \- 30\.0°C    | 37\.3% \- 76\.2%        |
 
 ## License
 
