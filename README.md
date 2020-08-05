@@ -74,7 +74,7 @@ You may find the explaination of each field in `3) Dataset Features & Codes.docx
 | Dataset                | Size                                      | Air Temperature Range | Relative Humidity Range |
 |------------------------|-------------------------------------------|-----------------------|-------------------------|
 | iTCM generic dataset   | 6689                                      | 19\.6°C \- 30\.6°C    | 37\.3% \- 83\.6%        |
-| iTCM personal datasets | 345 + 380 + 341 + 448 + 385 + 374.        | 19\.3°C \- 30\.0°C    | 37\.3% \- 76\.2%        |
+| iTCM personal datasets | 346 + 385 + 345 + 448 + 385 + 374.        | 19\.3°C \- 30\.0°C    | 37\.3% \- 76\.2%        |
 
 ## License
 
